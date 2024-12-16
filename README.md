@@ -31,7 +31,7 @@ Studying time series components is significant before modelling as they interpre
 
 1.	**Trend Component**
 The trend component of the time series data shows the long-term direction, whether it’s increasing, decreasing, or remaining stable over time.
-
+![Hospital Charges Chart](images/.png)
 
 
 
